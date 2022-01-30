@@ -12,3 +12,7 @@ then
   echo NOT OK
 
 fi
+
+if [ -z "$b" ]; then
+  echo B is empty / not declared variable
+fi
