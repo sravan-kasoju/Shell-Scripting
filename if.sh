@@ -7,7 +7,7 @@ then
    echo OK
 fi
 
-if [ $a != "abc"]
+if [ $a != "abc" ]
 then
   echo NOT OK
 
