@@ -6,3 +6,9 @@ if [ $a = "abc" ]
 then
    echo OK
 fi
+
+if [ $a != "abc"]
+then
+  echo NOT OK
+
+fi
