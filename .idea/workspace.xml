@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="Frontend">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/Components/cart.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/Components/catalogue.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/Components/dispatch.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/Components/frontend.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/Components/mongodb.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/Components/mysql.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/Components/payment.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/Components/rabbitmq.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/Components/redis.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/Components/roboshop.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/Components/shipping.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/Components/user.sh" beforeDir="false" />
-    </list>
+    <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="roboshop project structure initiation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -249,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643630644987</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="roboshop project structure initiation">
+      <created>1643631948331</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1643631948331</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,6 +265,7 @@
     <MESSAGE value="If conditions" />
     <MESSAGE value="variables" />
     <MESSAGE value="Frontend" />
-    <option name="LAST_COMMIT_MESSAGE" value="Frontend" />
+    <MESSAGE value="roboshop project structure initiation" />
+    <option name="LAST_COMMIT_MESSAGE" value="roboshop project structure initiation" />
   </component>
 </project>
