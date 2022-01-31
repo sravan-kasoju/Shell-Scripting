@@ -12,7 +12,7 @@ rm -rf /usr/share/nginx/html/* &>>$LOG_FILE
 
 echo "Extract frontend content"
 cd /tmp
-unzip /tmp/frontent.zip &>>$LOG_FILE
+unzip frontent.zip &>>$LOG_FILE
 
 echo "Copy Extracted content to NGINX path"
 cp -r frontend-main/static/* /usr/share/nginx/html/ &>>$LOG_FILE
