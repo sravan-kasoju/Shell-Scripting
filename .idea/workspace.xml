@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="roboshop project structure initiation">
-      <change beforePath="$PROJECT_DIR$/roboshop-project/roboshop.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/roboshop.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-project/components/frontend.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/frontend.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -300,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643635302244</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="roboshop project structure initiation">
+      <created>1643635565380</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1643635565380</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
