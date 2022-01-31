@@ -8,4 +8,6 @@ echo student_name = ${student_name}
 date=2022-02-31
 echo Good morning,today date is $date
 
+EXPR1=$((2*3-$+5))
+ECHO EXPR1 OUTPUT = $EXPR1
 
