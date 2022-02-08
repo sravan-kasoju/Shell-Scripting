@@ -70,34 +70,6 @@
       <option name="presentableId" value="Default" />
       <updated>1643531268350</updated>
     </task>
-    <task id="LOCAL-00012" summary="If conditions">
-      <created>1643556804613</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1643556804613</updated>
-    </task>
-    <task id="LOCAL-00013" summary="If conditions">
-      <created>1643556879792</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1643556879792</updated>
-    </task>
-    <task id="LOCAL-00014" summary="If conditions">
-      <created>1643557276107</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1643557276107</updated>
-    </task>
-    <task id="LOCAL-00015" summary="If conditions">
-      <created>1643557713615</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1643557713615</updated>
-    </task>
     <task id="LOCAL-00016" summary="If conditions">
       <created>1643624466292</created>
       <option name="number" value="00016" />
@@ -413,7 +385,35 @@
       <option name="project" value="LOCAL" />
       <updated>1644328150867</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="ec2 automation">
+      <created>1644328378062</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1644328378062</updated>
+    </task>
+    <task id="LOCAL-00062" summary="ec2 automation">
+      <created>1644328478246</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1644328478246</updated>
+    </task>
+    <task id="LOCAL-00063" summary="ec2 automation">
+      <created>1644328603870</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1644328603870</updated>
+    </task>
+    <task id="LOCAL-00064" summary="ec2 automation">
+      <created>1644328673185</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1644328673185</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
