@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="ec2 automation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roboshop-project/create-ec2.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/create-ec2.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,20 +69,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643531268350</updated>
-    </task>
-    <task id="LOCAL-00017" summary="If conditions">
-      <created>1643625160666</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1643625160666</updated>
-    </task>
-    <task id="LOCAL-00018" summary="variables">
-      <created>1643625185958</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1643625185958</updated>
     </task>
     <task id="LOCAL-00019" summary="variables">
       <created>1643625388807</created>
@@ -414,7 +399,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644328915933</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="ec2 automation">
+      <created>1644329408022</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1644329408022</updated>
+    </task>
+    <task id="LOCAL-00067" summary="ec2 automation">
+      <created>1644329476438</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1644329476438</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
