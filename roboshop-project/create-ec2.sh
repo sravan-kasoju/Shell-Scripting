@@ -6,3 +6,4 @@ if [ -z "${AMI_ID}" ]; then
 else
   echo -e "\e[32mAMI ID = ${AMI_ID}\e[0m"
 fi
+
