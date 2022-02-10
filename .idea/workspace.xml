@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="mongodb">
-      <change beforePath="$PROJECT_DIR$/roboshop-project/components/mongodb.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/mongodb.sh" afterDir="false" />
-    </list>
+    <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="mongodb" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,13 +67,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643531268350</updated>
-    </task>
-    <task id="LOCAL-00037" summary="roboshop project structure initiation">
-      <created>1643636649694</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1643636649694</updated>
     </task>
     <task id="LOCAL-00038" summary="roboshop project structure initiation">
       <created>1643636992615</created>
@@ -413,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644509030127</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="mongodb">
+      <created>1644509216661</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1644509216661</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
