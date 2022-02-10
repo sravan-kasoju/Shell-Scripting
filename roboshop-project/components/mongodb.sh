@@ -9,7 +9,7 @@ yum install -y mongodb-org &>>$LOG_FILE
 STAT $?
 
 echo "update MongoDB config file"
-sed -i -e 's/127.0.0.1/0.0.0.0' /etc/mongod.conf &>>$LOG_FILE
+sed -i -e 's/127.0.0.1/0.0.0.0/' /etc/mongod.conf &>>$LOG_FILE
 STAT $?
 
 echo "start Database"
@@ -22,7 +22,7 @@ curl -s -L -o /tmp/mongodb.zip "https://github.com/roboshop-devops-project/mongo
 STAT $?
 
 echo "Extract Schema"
-cd /tmp
+cd /tmp/
 unzip -o mongodb.zip &>>$LOG_FILE
 STAT $?
 
