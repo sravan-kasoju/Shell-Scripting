@@ -1,6 +1,6 @@
 source components/common.sh
 
-echo "Download MongoDB repo file"
+echo "Download MongoDb repo file"
 curl -s -o /etc/yum.repos.d/mongodb.repo https://raw.githubusercontent.com/roboshop-devops-project/mongodb/main/mongo.repo &>>$LOG_FILE
 STAT $?
 
@@ -9,7 +9,7 @@ yum install -y mongodb-org &>>$LOG_FILE
 STAT $?
 
 echo "update MongoDB config file"
-sed -i -e '/127.0.0.1/0.0.0.0' /etc/mongod.conf &>>$LOG_FILE
+sed -i -e 's/127.0.0.1/0.0.0.0' /etc/mongod.conf &>>$LOG_FILE
 STAT $?
 
 echo "start Database"
