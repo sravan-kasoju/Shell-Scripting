@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="mongodb">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/components/catalogue.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/catalogue.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-project/components/redis.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/redis.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,20 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643531268350</updated>
-    </task>
-    <task id="LOCAL-00044" summary="roboshop project structure initiation">
-      <created>1643641012256</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1643641012256</updated>
-    </task>
-    <task id="LOCAL-00045" summary="roboshop project structure initiation">
-      <created>1643641198759</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1643641198759</updated>
     </task>
     <task id="LOCAL-00046" summary="roboshop project structure initiation">
       <created>1643645635204</created>
@@ -414,7 +400,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644577998153</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="mongodb">
+      <created>1644579179497</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1644579179498</updated>
+    </task>
+    <task id="LOCAL-00094" summary="mongodb">
+      <created>1644579252181</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1644579252181</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
