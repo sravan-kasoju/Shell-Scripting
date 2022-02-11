@@ -9,7 +9,7 @@ yum install nodejs gcc-c++ -y &>>$LOG_FILE
 STAT $?
 
 echo "create App user"
-sudo useradd roboshop &>>$LOG_FILE
+useradd roboshop
 STAT $?
 
 echo "Download catalogue code"
