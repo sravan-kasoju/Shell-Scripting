@@ -10,7 +10,7 @@ STAT $?
 
 echo "create App user"
 useradd roboshop &>>$LOG_FILE
-STAT $?
+
 
 echo "Download catalogue code"
 curl -s -L -o /tmp/catalogue.zip "https://github.com/roboshop-devops-project/catalogue/archive/main.zip" &>>$LOG_FILE
