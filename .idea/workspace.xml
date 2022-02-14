@@ -71,13 +71,6 @@
       <option name="presentableId" value="Default" />
       <updated>1643531268350</updated>
     </task>
-    <task id="LOCAL-00055" summary="roboshop project structure initiation">
-      <created>1644315497851</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1644315497851</updated>
-    </task>
     <task id="LOCAL-00056" summary="roboshop project structure initiation">
       <created>1644315713856</created>
       <option name="number" value="00056" />
@@ -414,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644823479148</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="update frontend conf">
+      <created>1644826776713</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1644826776714</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
