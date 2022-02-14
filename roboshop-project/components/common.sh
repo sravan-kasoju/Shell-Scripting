@@ -33,8 +33,8 @@ NODEJS() {
 
   echo "Extract ${COMPONENT} code"
   cd /tmp/ &>>$LOG_FILE
-  unzip -o ${COMPONENT}.zip &>>$LOG_FILE
-  STAT $?
+  unzip -o ${COMPONENT}.zip
+
 
   echo "Clean old user"
   rm -rf /home/roboshop/${COMPONENT}
