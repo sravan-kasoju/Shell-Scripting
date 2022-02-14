@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="update frontend conf">
-      <change beforePath="$PROJECT_DIR$/roboshop-project/components/cart.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/cart.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-project/components/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/common.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-project/components/frontend.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/frontend.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +71,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643531268350</updated>
-    </task>
-    <task id="LOCAL-00057" summary="roboshop project structure initiation">
-      <created>1644316552047</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1644316552047</updated>
     </task>
     <task id="LOCAL-00058" summary="roboshop project structure initiation">
       <created>1644327620249</created>
@@ -413,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644827572438</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="update frontend conf">
+      <created>1644827984391</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1644827984391</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
