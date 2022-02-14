@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="update frontend conf">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roboshop-project/components/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/common.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/components/frontend.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/frontend.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,34 +69,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643531268350</updated>
-    </task>
-    <task id="LOCAL-00058" summary="roboshop project structure initiation">
-      <created>1644327620249</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1644327620249</updated>
-    </task>
-    <task id="LOCAL-00059" summary="ec2 automation">
-      <created>1644327969742</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1644327969742</updated>
-    </task>
-    <task id="LOCAL-00060" summary="ec2 automation">
-      <created>1644328150867</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1644328150867</updated>
-    </task>
-    <task id="LOCAL-00061" summary="ec2 automation">
-      <created>1644328378062</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1644328378062</updated>
     </task>
     <task id="LOCAL-00062" summary="ec2 automation">
       <created>1644328478246</created>
@@ -415,7 +385,35 @@
       <option name="project" value="LOCAL" />
       <updated>1644827984391</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="update frontend conf">
+      <created>1644835392272</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1644835392273</updated>
+    </task>
+    <task id="LOCAL-00108" summary="update frontend conf">
+      <created>1644835448488</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1644835448489</updated>
+    </task>
+    <task id="LOCAL-00109" summary="update frontend conf">
+      <created>1644835565304</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1644835565304</updated>
+    </task>
+    <task id="LOCAL-00110" summary="update frontend conf">
+      <created>1644835656533</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1644835656533</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

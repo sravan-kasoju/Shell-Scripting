@@ -33,16 +33,16 @@ NODEJS() {
 
   echo "Extract ${COMPONENT} code"
   cd /tmp/ &>>$LOG_FILE
-  unzip -o ${COMPONENT}.zip
-
+  unzip -o ${COMPONENT}.zip &>>$LOG_FILE
+  STAT $?
 
   echo "Clean old user"
-  rm -rf /home/roboshop/${COMPONENT}
-
+  rm -rf /home/roboshop/${COMPONENT} &>>$LOG_FILE
+  STAT $?
 
   echo "copy ${COMPONENT} content"
-  cp -r ${COMPONENT}-main /home/roboshop/${COMPONENT}
-
+  cp -r ${COMPONENT}-main /home/roboshop/${COMPONENT} &>>$LOG_FILE
+  STAT $?
 
   echo "Install NodeJs Dependencies"
   cd /home/roboshop/${COMPONENT} &>>$LOG_FILE
