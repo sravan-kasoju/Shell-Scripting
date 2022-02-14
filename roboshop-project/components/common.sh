@@ -42,7 +42,7 @@ NODEJS() {
 
   echo "copy ${COMPONENT} content"
   cp -r ${COMPONENT}-main /home/roboshop/${COMPONENT}
-  STAT $?
+
 
   echo "Install NodeJs Dependencies"
   cd /home/roboshop/${COMPONENT} &>>$LOG_FILE
