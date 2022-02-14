@@ -38,7 +38,7 @@ NODEJS() {
 
   echo "Clean old user"
   rm -rf /home/roboshop/${COMPONENT}
-  STAT $?
+
 
   echo "copy ${COMPONENT} content"
   cp -r ${COMPONENT}-main /home/roboshop/${COMPONENT}
