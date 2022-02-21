@@ -28,7 +28,7 @@ NODEJS() {
   STAT $?
 
   echo "Download ${COMPONENT} code"
-  curl -s -L -o /tmp/${COMPONENT}.zip "https://github.com/roboshop-devops-project/user/archive/main.zip" &>>$LOG_FILE
+  curl -s -L -o /tmp/${COMPONENT}.zip "https://github.com/roboshop-devops-project/${COMPONENT}/archive/main.zip" &>>$LOG_FILE
   STAT $?
 
   echo "Extract ${COMPONENT} code"
