@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="mysql">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/components/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/common.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-project/components/shipping.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/shipping.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,20 +75,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643531268350</updated>
-    </task>
-    <task id="LOCAL-00070" summary="ec2 automation">
-      <created>1644333574201</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1644333574202</updated>
-    </task>
-    <task id="LOCAL-00071" summary="ec2 automation">
-      <created>1644333993709</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1644333993709</updated>
     </task>
     <task id="LOCAL-00072" summary="ec2 automation">
       <created>1644396203989</created>
@@ -420,7 +405,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645722875488</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="mysql">
+      <created>1645723703100</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1645723703100</updated>
+    </task>
+    <task id="LOCAL-00120" summary="mysql">
+      <created>1645723811308</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1645723811308</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -67,5 +67,8 @@ NODEJS() {
   systemctl enable ${COMPONENT} &>>$LOG_FILE
   systemctl start ${COMPONENT} &>>$LOG_FILE
   STAT $?
+}
 
+JAVA() {
+  COMPONENT=$1
 }
