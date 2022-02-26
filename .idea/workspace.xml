@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="PAYMENT">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/components/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/common.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-project/components/dispatch.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/dispatch.sh" afterDir="false" />
-    </list>
+    <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="dispatch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,13 +73,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643531268350</updated>
-    </task>
-    <task id="LOCAL-00083" summary="frontend">
-      <created>1644423691321</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1644423691321</updated>
     </task>
     <task id="LOCAL-00084" summary="frontend">
       <created>1644507966243</created>
@@ -421,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645812449191</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="dispatch">
+      <created>1645874089799</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1645874089800</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -457,6 +453,7 @@
     <MESSAGE value="update shipping host" />
     <MESSAGE value="RabbitMq" />
     <MESSAGE value="PAYMENT" />
-    <option name="LAST_COMMIT_MESSAGE" value="PAYMENT" />
+    <MESSAGE value="dispatch" />
+    <option name="LAST_COMMIT_MESSAGE" value="dispatch" />
   </component>
 </project>

@@ -123,12 +123,13 @@ GOLANG() {
 
   echo "Install GoLang"
   yum install golang -y &>>$LOG_FILE
+  STAT $?
 
   APP_USER_SETUP_WITH_APP
 
   echo "Build GoLang code"
   cd /home/roboshop/${COMPONENT}
-  go mod intit dispatch &>>$LOG_FILE
+  go mod init dispatch &>>$LOG_FILE
   go get &>>$LOG_FILE
   go build &>>$LOG_FILE
   STAT $?
