@@ -7,6 +7,7 @@
     <list default="true" id="0084295d-7d6b-41b9-9910-2e2893110cbf" name="Changes" comment="PAYMENT">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roboshop-project/components/common.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/common.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-project/components/dispatch.sh" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-project/components/dispatch.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643531268350</updated>
-    </task>
-    <task id="LOCAL-00082" summary="functions">
-      <created>1644423218620</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1644423218620</updated>
     </task>
     <task id="LOCAL-00083" summary="frontend">
       <created>1644423691321</created>
@@ -420,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645812312840</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="PAYMENT">
+      <created>1645812449191</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1645812449191</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
